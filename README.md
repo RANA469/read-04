@@ -15,29 +15,29 @@ visitors you will need a form, which lives inside a
 <form> element.
 ### Comments in HTMl:
 <!-- comment goes here -->
-### ID Attribute:
+###ID Attribute:
 Every HTML element can carry
 the id attribute. It is used to
 uniquely identify that element
 from other elements on the
 page
-### Class Attribute:
+###Class Attribute:
 For example, you might have
 some paragraphs of text that
 contain information that is more
 important than others and want
 to distinguish these elements
-### Block Elements:
+###Block Elements:
 Examples of block elements are
 <h1>, <p>, <ul>, and <li>.
-### inline elements :
+###inline elements :
 Examples of inline elements are
 <a>, <b>, <em>, and <img>.
-## Grouping Text & Elements In a Block
+##Grouping Text & Elements In a Block
 <div> The <div> element allows you to
 group a set of elements together
 in one block-level box.
-## Grouping Text & Elements Inline
+##Grouping Text & Elements Inline
 The <span> element acts like
 an inline equivalent of the <div>
 element. It is used to either:
